@@ -1,16 +1,49 @@
-## Hi there 👋
+# Danielle Alves
 
-<!--
-**dane185pedro-sketch/dane185pedro-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formanda em **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia, automação e inteligência artificial.
 
-Here are some ideas to get you started:
+Atualmente desenvolvendo projetos voltados para experimentação tecnológica, integração de sistemas e criação de soluções digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias e Interesses
+
+- Python
+- Automação de processos
+- Integração de sistemas
+- Inteligência Artificial
+- Desenvolvimento de soluções digitais
+
+---
+
+## Projetos em Destaque
+
+- **Clareia** – Projeto desenvolvido no programa Santander X Explorer.
+- **Assistente IA Fernanda** – Automação de atendimento utilizando inteligência artificial.
+- **Floresta da Fala** – Aplicação experimental voltada à criação de soluções digitais com automação e IA.
+- **Desafios DIO** – Exercícios e projetos práticos de desenvolvimento.
+
+---
+
+## Atualmente aprendendo
+
+- Desenvolvimento de sistemas
+- Automação de fluxos
+- Integração entre APIs
+- Aplicações de IA em projetos reais
+
+---
+
+## Formação
+
+- Análise e Desenvolvimento de Sistemas – em andamento
+- Cursos complementares em tecnologia
+- Formação prática em automação e IA
+
+---
+
+## Conecte-se comigo
+
+GitHub: https://github.com/dane185pedro-sketch
+
+
